@@ -62,7 +62,7 @@ Most influential guilds, Silmarien Mining Consortium lead by House Silmarien and
 ##### High Council
 - Seats on the Council are allocated primarily to the two biggest guilds — Silmarien Mining Consortium and Artisans Guild with each holding two permanent seats due to their economic influence and historical status
 - Rotating Seats are available to other guilds, such as Mercantile Guild, Blackthorne Company of Arms, and other minor guilds. Every few years, minor houses can vie for these rotating seats.
-- The council is capped at six seats (4 for major houses, 2 rotating seats) to prevent stagnation and allow new, rising houses to have a voice.
+- The council is capped at six seats; 4 for major houses, 2 rotating seats.
 - The council elects a Grand Exarch from among its members, who acts as the chief executive and symbolic head of the city. The Grand Exarch’s responsibilities include presiding over council sessions, representing Celemboril in diplomatic affairs, and making tie-breaking votes.
 - The position of Grand Exarch is elected every five years, and no house can hold the position for more than two consecutive terms to ensure that power remains balanced. The role typically alternates between the three major houses, although minor houses occasionally secure the title in times of crisis or economic shift.
 
